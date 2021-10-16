@@ -1,0 +1,9 @@
+.single-post{
+    border: 3px solid rebeccapurple;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.single-post h2{
+    background-color: rosybrown;
+}
